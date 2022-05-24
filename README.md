@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-My name is Benedikt!
+My name is Benedikt (he/him)!
 
 - 🔭 I’m currently working on
-  - Agent-based modelling with the Center for Mind and Culture
+  - Multiple projects with the Center for Mind and Culture
+    - Using a modified version of [Agentpy](https://github.com/JoelForamitti/agentpy) to model tooth decay in kids between the ages of 0-6.
+    - Using AWS tools to set up a data-processing backend for an app
   - EdTech Software with Harvard Department of Continuing Education
+    - Working together on a tool for adding apps and extensions to Canvas
 - 🌱 I’m currently learning ...
-  - Rust (and a little C++)
+  - Rust (and a little C/C++)
   - TypeScript and functional programming 
   - General Web-Dev (tools, frameworks, etc.)
 
 To see what I've recently been learning or working on the side, check out my [personal projects repo](https://github.com/Benni-Math/personal_projects).
 
-I'm a recently graduated math major and computer science minor. I used to be very interested in number theory (Langlands and arithmetic geometry), but now I'm focused on all things computer science and software engineering. I really appreciate the intersection of abstract math and computer science!
+I'm a recently graduated math major and computer science minor. I used to be very interested in number theory (Langlands and arithmetic geometry), but now I'm focused on all things computer science and software engineering.
 
 <!--
 **Benni-Math/Benni-Math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
