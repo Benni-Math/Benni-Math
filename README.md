@@ -9,9 +9,9 @@ My name is Benedikt (he/him)!
   - EdTech Software with Harvard Department of Continuing Education
     - Working together on a tool for adding apps and extensions to Canvas
 - 🌱 I’m currently learning ...
-  - Rust (and a little C/C++)
-  - TypeScript and functional programming 
-  - General Web-Dev (tools, frameworks, etc.)
+  - Go ([Kratos](https://github.com/go-kratos/kratos), [Docker](https://github.com/moby/moby, and other cool stuff written in Go)
+  - C and Assembly (ARM64)
+  - Still doing Rust stuff
 
 To see what I've recently been learning or working on the side, check out my [personal projects repo](https://github.com/Benni-Math/personal_projects).
 
