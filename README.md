@@ -9,7 +9,7 @@ My name is Benedikt (he/him)!
   - EdTech Software with Harvard Department of Continuing Education
     - Working together on a tool for adding apps and extensions to Canvas
 - 🌱 I’m currently learning ...
-  - Go ([Kratos](https://github.com/go-kratos/kratos), [Docker](https://github.com/moby/moby, and other cool stuff written in Go)
+  - Go ([Kratos](https://github.com/go-kratos/kratos), [Docker](https://github.com/moby/moby), and other cool stuff written in Go)
   - C and Assembly (ARM64)
   - Still doing Rust stuff
 
