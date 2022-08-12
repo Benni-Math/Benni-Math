@@ -3,17 +3,14 @@
 My name is Benedikt (he/him)!
 
 - 🔭 I’m currently working on
-  - Multiple projects with the Center for Mind and Culture
-    - Using a modified version of [Agentpy](https://github.com/JoelForamitti/agentpy) to model tooth decay in kids between the ages of 0-6.
-    - Using AWS tools to set up a data-processing backend for an app
-  - EdTech Software with Harvard Department of Continuing Education
-    - Working together on a tool for adding apps and extensions to Canvas
+  - Using a modified version of [Agentpy](https://github.com/JoelForamitti/agentpy) to model tooth decay in kids between the ages of 0-6.
+  - EdTech software with Harvard Department of Continuing Education
 - 🌱 I’m currently learning ...
-  - Go ([Kratos](https://github.com/go-kratos/kratos), [Docker](https://github.com/moby/moby), and other cool stuff written in Go)
-  - C and Assembly (ARM64)
-  - Still doing Rust stuff
+  - (Algorithms for Optimization)[https://mitpress.mit.edu/9780262039420/] and other related math
+  - Rust entity-component systems, actor-models, agent-based models, and more machine learning techniques
+  - C for networking like (Nginx)[https://github.com/nginx/nginx]; starting with (Beej)[https://beej.us/guide/bgnet/html/]
 
-To see what I've recently been learning or working on the side, check out my [personal projects repo](https://github.com/Benni-Math/personal_projects).
+To see what I've recently been learning or working on the side, check out my [personal projects repo](https://github.com/Benni-Math/personal_projects). I'm also working towards a personal website (still in the works).
 
 I'm a recently graduated math major and computer science minor. I used to be very interested in number theory (Langlands and arithmetic geometry), but now I'm focused on all things computer science and software engineering.
 
