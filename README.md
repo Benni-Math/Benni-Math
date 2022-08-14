@@ -5,6 +5,7 @@ My name is Benedikt (he/him)!
 - 🔭 I’m currently working on
   - Using a modified version of [Agentpy](https://github.com/JoelForamitti/agentpy) to model tooth decay in kids between the ages of 0-6.
   - EdTech software with Harvard Department of Continuing Education
+  - A small personal website written with TypeScript and React
 - 🌱 I’m currently learning ...
   - (Algorithms for Optimization)[https://mitpress.mit.edu/9780262039420/] and other related math
   - Rust entity-component systems, actor-models, agent-based models, and more machine learning techniques
