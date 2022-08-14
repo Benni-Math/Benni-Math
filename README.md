@@ -7,9 +7,10 @@ My name is Benedikt (he/him)!
   - EdTech software with Harvard Department of Continuing Education
   - A small personal website written with TypeScript and React
 - 🌱 I’m currently learning ...
-  - (Algorithms for Optimization)[https://mitpress.mit.edu/9780262039420/] and other related math
+  - [Algorithms for Optimization](https://mitpress.mit.edu/9780262039420/) and other related math
   - Rust entity-component systems, actor-models, agent-based models, and more machine learning techniques
-  - C for networking like (Nginx)[https://github.com/nginx/nginx]; starting with (Beej)[https://beej.us/guide/bgnet/html/]
+  - C for networking like [Nginx](https://github.com/nginx/nginx); starting with (Beej)[https://beej.us/guide/bgnet/html/]
+  - Maybe some Rust or C operating system stuff...
 
 To see what I've recently been learning or working on the side, check out my [personal projects repo](https://github.com/Benni-Math/personal_projects). I'm also working towards a personal website (still in the works).
 
