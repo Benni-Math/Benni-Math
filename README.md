@@ -5,15 +5,14 @@ My name is Benedikt (he/him)! I'm a recently graduated math major and computer s
 - 🔭 I’m currently working on
   - Using a modified version of [Agentpy](https://github.com/JoelForamitti/agentpy) to model tooth decay in kids between the ages of 0-6.
   - EdTech software with Harvard Department of Continuing Education
-  - A small personal website written with TypeScript and React (on-hold/in-purgatory)
+  - Some network graph and build system related stuff in Rust
   
 Also, check out my [personal projects repo](https://github.com/Benni-Math/personal_projects).
 
 - 🌱 I’m currently learning ...
   - [Distributed Algorithms](https://mitpress.mit.edu/9780262037662/distributed-algorithms/)
-  - Systems design
-  - Java Spring
-  - AWS and related tools
+  - Build systems
+  - WebGL, SVG, and other graphics stuff
   
  
 - 📫 Reach me at: benni@bu.edu
