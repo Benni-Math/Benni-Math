@@ -5,7 +5,7 @@ My name is Benedikt (he/him)! I'm a recently graduated math major and computer s
 - 🔭 I’m currently working on
   - Using a modified version of [Agentpy](https://github.com/JoelForamitti/agentpy) to model tooth decay in kids between the ages of 0-6.
   - EdTech software with Harvard Department of Continuing Education
-  - Developing serverless APIs
+  - Kafka and Cassandra development
 
 - 🌱 I’m currently learning ...
   - Developer tooling and programming language theory
